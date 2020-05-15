@@ -1,6 +1,6 @@
 # IceCreamFlavors
 
-This is a practice repo fr strong params and validations. On the frontend (link here) I will be learning full CRUD controlled forms, DOM manipulation, eventListeners, custom fetch requests, etc. 
+This is a practice repo fr strong params and validations. On the frontend (https://github.com/ljg2gb/FE_IceCreamFlavors) I will be learning full CRUD controlled forms, DOM manipulation, eventListeners, custom fetch requests, etc. 
 
 BE notes:
 * Create new Rais api (rails new name_of_directory --api)
